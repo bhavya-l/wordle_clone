@@ -7,8 +7,8 @@ class LetterTile extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      width: 48, // or use MediaQuery for dynamic sizing
-      height: 48,
+      width: 64, // or use MediaQuery for dynamic sizing
+      height: 64,
       alignment: Alignment.center,
       margin: EdgeInsets.all(4), // spacing between tiles
       decoration: BoxDecoration(

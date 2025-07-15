@@ -1,0 +1,22 @@
+const List<String> fiveLetterWords = [
+  'apple', 'baker', 'cabin', 'delta', 'eagle',
+  'flame', 'grape', 'house', 'input', 'jolly',
+  'karma', 'lemon', 'magic', 'noble', 'ocean',
+  'pride', 'queen', 'radio', 'shark', 'tiger',
+  'uncle', 'vivid', 'whale', 'xenon', 'youth',
+  'zebra', 'align', 'blush', 'crane', 'draft',
+  'event', 'frost', 'glory', 'hover', 'ideal',
+  'joint', 'kneel', 'latch', 'motel', 'nerve',
+  'orbit', 'piano', 'quilt', 'reign', 'stack',
+  'trick', 'unity', 'vapor', 'woven', 'yield',
+  'zesty', 'amber', 'bison', 'chalk', 'dwell',
+  'elite', 'feast', 'glide', 'honey', 'inbox',
+  'jaunt', 'kiosk', 'lunar', 'mimic', 'noisy',
+  'optic', 'punch', 'quack', 'rival', 'solar',
+  'thorn', 'upset', 'vigil', 'wrist', 'xerox',
+  'yacht', 'zonal', 'axiom', 'brisk', 'clown',
+  'dizzy', 'evoke', 'fable', 'grain', 'haste',
+  'irony', 'jumpy', 'kayak', 'liver', 'mango',
+  'ninth', 'oxide', 'plaza', 'quirk', 'relax',
+  'scoop', 'tulip', 'unzip', 'vixen', 'whack'
+];

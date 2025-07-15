@@ -1,9 +1,14 @@
 import 'package:flutter/material.dart';
 import 'letter_tile.dart';
+import '../models/word_model.dart';
 
 class Board extends StatelessWidget {
-  const Board({Key? key}) : super(key: key);
+  const Board({
+    Key? key,
+    required this.board,
+    }) : super(key: key);
 
+  final List<Word> board;
 
   @override
   Widget build(BuildContext context) {
