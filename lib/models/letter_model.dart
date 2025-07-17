@@ -17,7 +17,7 @@ class Letter extends Equatable {
   Color get backgroundColor {
     switch (status) {
       case LetterStatus.initial: 
-        return Colors.transparent;
+        return initialColor;
       case LetterStatus.notInWord: 
         return notCorrectColor;
       case LetterStatus.correct:
